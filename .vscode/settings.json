@@ -1,0 +1,9 @@
+{
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "python.pythonPath": ".programsVenv\\Scripts\\python.exe",
+}
